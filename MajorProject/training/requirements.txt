@@ -1,0 +1,15 @@
+torch>=2.1.0
+transformers>=4.40.0
+datasets>=2.19.0
+accelerate>=0.30.0
+sentencepiece>=0.2.0
+protobuf>=4.25.0
+sacrebleu>=2.4.0
+rouge-score>=0.1.2
+bert-score>=0.3.13
+numpy>=1.26.0
+pandas>=2.2.0
+scikit-learn>=1.4.0
+onnx>=1.16.0
+onnxruntime>=1.18.0
+optimum[onnxruntime]>=1.19.0

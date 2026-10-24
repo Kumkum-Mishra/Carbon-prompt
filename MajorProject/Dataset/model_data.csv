@@ -1,0 +1,775 @@
+full_name_of_model,category,speed,latency,context,input_cost,output_cost
+Claude Opus 4.6 (Thinking),text,56 tps,1.6s,200K,$5.00,$25.00
+Claude Opus 4.6,text,48 tps,1.7s,200K,$5.00,$25.00
+GPT-5.4,text,55 tps,0.8s,1M,$2.50,$15.00
+Claude Sonnet 4.6,text,47 tps,1.2s,200K,$3.00,$15.00
+Claude Sonnet 4.6 (Thinking),text,57 tps,1.1s,200K,$3.00,$15.00
+Gemini 3.1 Pro,text,35 tps,4.1s,1M,$2.00,$12.00
+Claude Opus 4.5 (Thinking),text,49 tps,1.4s,200K,$5.00,$25.00
+GPT-5.1,text,71 tps,1.4s,400K,$1.42,$11.33
+GPT-5.1 (High),text,76 tps,6.9s,400K,$1.25,$10.00
+GPT-5.2 Instant,text,52 tps,2.0s,400K,$1.75,$14.00
+Gemini 3 Pro,text,50 tps,3.6s,1M,$2.00,$12.00
+Claude Sonnet 4.5 (Thinking),text,44 tps,1.1s,200K,$3.00,$15.00
+GPT-5.3 Instant,text,63 tps,0.8s,400K,$1.75,$14.00
+Gemini 3 Flash Preview Thinking,text,3 tps,6.2s,1M,$0.50,$3.00
+Gemini 3 Pro (Low),text,51 tps,3.5s,1M,$2.00,$12.00
+GPT-5.2,text,18 tps,2.7s,400K,$1.75,$14.00
+Grok 4.20 Beta Reasoning,text,77 tps,4.5s,2M,$2.00,$5.50
+Claude Opus 4.5,text,45 tps,1.5s,200K,$5.00,$25.00
+GPT-5.4 mini,text,148 tps,0.5s,400K,$0.75,$4.50
+Gemini 3 Flash Preview,text,138 tps,1.4s,1M,$0.50,$3.00
+GPT-5.2 (High),text,18 tps,16.3s,400K,$1.75,$14.00
+GPT-5 Chat,text,95 tps,0.9s,400K,$1.25,$10.00
+GLM 5,text,36 tps,2.7s,200K,$0.72,$2.55
+Grok 4.20 Beta Non-reasoning,text,151 tps,0.6s,2M,$2.00,$6.00
+MiniMax M2.7-highspeed,text,50 tps,2.1s,204.8K,$0.60,$2.40
+Claude Haiku 4.5 (Extended Thinking),text,115 tps,0.7s,200K,$1.00,$5.00
+GPT-5 (High),text,81 tps,35.9s,400K,$1.25,$10.00
+Grok 4.1 Fast Non-Reasoning,text,101 tps,0.5s,2M,$0.20,$0.50
+Nova Experimental Chat 12-10,text,84 tps,12.8s,98K,$0.00,$0.00
+Qwen3 VL 235B A22B Instruct,text,75 tps,1.9s,129K,$0.37,$1.81
+MiniMax M2.7,text,34 tps,2.5s,204.8K,$0.30,$1.20
+Gemini 2.5 Pro High,text,48 tps,2.3s,1M,$1.25,$10.00
+Qwen3 30B A3B Instruct 2507,text,55 tps,1.3s,131.1K,$0.13,$0.72
+Qwen3 Next 80B A3B Instruct,text,84 tps,1.1s,256K,$0.20,$1.42
+Grok 4.20 Multi Agent Beta,text,56 tps,8.8s,2M,$2.00,$6.00
+Kimi K2.5,text,33 tps,1.7s,262.1K,$0.34,$2.57
+Kimi K2.5 Instant,text,32 tps,3.0s,262.1K,$0.50,$3.00
+Claude Sonnet 4.5,text,41 tps,1.3s,200K,$1.80,$9.00
+Qwen3 Omni 30B A3B Thinking,text,67 tps,1.2s,65.5K,$0.97,$1.79
+DeepSeek V3.2,text,84 tps,5.1s,131.1K,$0.43,$1.09
+Qwen3 235B A22B Instruct 2507,text,13 tps,1.9s,262.1K,$0.13,$0.52
+Qwen3 Max Instruct Preview,text,31 tps,1.7s,256K,$1.43,$6.61
+GPT-5.2 (Extra High),text,17 tps,20.5s,400K,$1.75,$14.00
+Grok 4.1 Fast Reasoning,text,58 tps,7.3s,2M,$0.20,$0.50
+Gemini 2.5 Pro,text,45 tps,2.6s,1M,$1.25,$10.00
+Kimi K2 Thinking Turbo,text,75 tps,1.4s,262.1K,$1.15,$8.00
+DeepSeek V3.1 Terminus Chat,text,28 tps,1.5s,131.1K,$0.86,$1.80
+Claude Sonnet 4 (Thinking),text,52 tps,1.5s,200K,$3.00,$13.67
+Grok 4 Fast Reasoning,text,102 tps,3.1s,2M,$0.30,$0.75
+Step 3.5 Flash,text,109 tps,0.6s,256K,$0.05,$0.15
+gpt-oss-120b,text,213 tps,0.5s,131.1K,$0.11,$0.50
+Claude Haiku 4.5,text,100 tps,0.9s,200K,$1.00,$5.00
+Grok 4 Fast Non-Reasoning,text,93 tps,0.6s,2M,$0.27,$0.67
+Qwen3.5 122B A17B,text,82 tps,1.4s,256K,$0.40,$3.20
+GPT-5,text,78 tps,23.1s,400K,$1.25,$9.67
+DeepSeek V3.1 Turbo,text,173 tps,1.3s,163.8K,$2.00,$3.75
+MiniMax M2.1 Lightning,text,52 tps,2.1s,204.8K,$0.30,$2.40
+DeepSeek V3.2 Thinking,text,30 tps,2.6s,131.1K,$0.28,$0.42
+Gemini 3.1 Flash Lite Preview Thinking,text,75 tps,4.7s,1M,$0.25,$1.50
+MiniMax M2.1,text,66 tps,2.6s,204.8K,$0.30,$1.20
+Gemini 2.5 Flash Preview 0925,text,5 tps,0.9s,1M,$0.13,$0.97
+MiniMax M2,text,39 tps,2.3s,204.8K,$0.21,$0.85
+GPT-5.1 Instant,text,50 tps,1.9s,400K,$1.25,$10.00
+Qwen3 Omni 30B A3B Instruct,text,65 tps,1.2s,65.5K,$0.35,$0.97
+Mistral Large 3,text,51 tps,1.0s,256K,$0.50,$1.50
+DeepSeek V3.2 Exp Chat,text,29 tps,1.5s,131.1K,$0.27,$0.39
+GLM 4.6,text,39 tps,1.5s,200K,$0.42,$1.66
+Grok 4,text,29 tps,11.1s,256K,$3.00,$15.00
+Qwen Plus (Aug'24),text,53 tps,1.3s,30K,$0.40,$1.20
+GLM 4.7,text,40 tps,1.5s,200K,$0.77,$1.73
+Seed 1.8 251228,text,41 tps,2.1s,256K,$0.25,$2.00
+DeepSeek V3.1,text,197 tps,0.4s,163.8K,$0.55,$1.60
+GPT-5 Mini,text,66 tps,14.2s,400K,$0.25,$2.00
+Gemini 2.5 Flash Thinking,text,88 tps,6.4s,1M,$0.30,$2.50
+Gemini 2.5 Flash Lite Preview 0925,text,209 tps,0.7s,1M,$0.25,$0.35
+MiniMax M2.5 FP8,text,33 tps,1.7s,204.8K,$0.45,$1.75
+Gemini 3.1 Flash Lite Preview,text,8 tps,1.2s,1M,$0.25,$1.50
+Qwen3.5 397B A17B,text,57 tps,1.4s,256K,$0.52,$3.00
+Qwen3 Max Thinking Preview,text,40 tps,2.1s,256K,$1.20,$6.00
+GPT-4o,text,49 tps,2.4s,128K,$3.71,$12.57
+MiniMax M2.5 Lightning,text,51 tps,2.0s,204.8K,$0.60,$2.40
+OpenAI o3-pro,text,22 tps,70.7s,200K,$20.00,$80.00
+GPT-5 Mini Minimal,text,63 tps,1.4s,400K,$0.25,$2.00
+Qwen3.5 27B,text,55 tps,2.6s,256K,$0.30,$2.40
+MiniMax M2.5,text,70 tps,1.9s,204.8K,$0.28,$1.20
+DeepSeek V3.1 Chat,text,21 tps,1.6s,131.1K,$0.38,$1.00
+Qwen3 235B A22B,text,71 tps,0.9s,41K,$0.23,$0.63
+Seed 2.0 Lite (Medium),text,33 tps,1.6s,256K,$0.25,$2.00
+Claude Sonnet 4,text,49 tps,1.3s,200K,$3.00,$15.00
+Amazon Nova 2 Lite,text,137 tps,0.6s,300K,$0.35,$2.95
+Nemotron 3 Nano (Thinking),text,199 tps,0.5s,256K,$0.00,$0.00
+DeepSeek V3.1 Nex N1,text,24 tps,7.3s,131.1K,$0.14,$0.50
+DeepSeek V3 0324 Turbo,text,12 tps,2.4s,163.8K,$0.73,$1.79
+Qwen Max,text,49 tps,1.5s,32.8K,$1.60,$6.40
+Gemini 2.5 Flash Lite Thinking Preview 0925,text,152 tps,3.0s,1M,$0.10,$0.40
+Gemini 2.5 Flash,text,2 tps,3.7s,1M,$0.30,$2.50
+DeepSeek V3.2 Exp Thinking,text,26 tps,3.0s,131.1K,$0.28,$0.42
+DeepSeek-R1 Turbo,text,29 tps,1.8s,64K,$2.85,$4.75
+Kimi K2 Thinking,text,61 tps,5.9s,262.1K,$0.24,$1.03
+Gemini 2.5 Flash Lite,text,210 tps,0.7s,1M,$0.10,$0.40
+Qwen3 32B,text,30 tps,3.1s,41K,$0.12,$0.42
+GPT-5 (Low),text,75 tps,8.2s,400K,$1.25,$10.00
+DeepSeek V3 (Turbo),text,32 tps,1.5s,64K,$0.40,$1.30
+Qwen3.5 35B A3B,text,116 tps,2.1s,256K,$0.63,$1.13
+gpt-oss-20b,text,216 tps,0.5s,131.1K,$0.06,$0.26
+Grok 3,text,53 tps,0.6s,1M,$3.67,$18.33
+DeepSeek V3 0324,text,12 tps,2.7s,163.8K,$0.38,$0.93
+DeepSeek V3.1 Terminus Thinking,text,27 tps,1.8s,131.1K,$0.56,$1.68
+Claude Sonnet 3.5 v2,text,46 tps,1.4s,200K,$3.00,$15.00
+GPT-5.4 nano,text,149 tps,0.5s,400K,$0.20,$1.25
+Grok 3 Fast,text,52 tps,2.4s,131.1K,$5.00,$25.00
+LongCat Flash Chat,text,85 tps,0.9s,131.1K,$0.14,$0.68
+Gemini 2.5 Flash Lite Thinking,text,118 tps,4.4s,1M,$0.03,$0.13
+Kimi K2 Fast,text,367 tps,0.5s,131.1K,$1.00,$3.00
+GLM 4.5,text,46 tps,1.4s,131.1K,$0.43,$1.63
+GLM 4.5 AirX,text,75 tps,1.2s,131.1K,$1.10,$4.50
+Mistral Medium,text,48 tps,0.6s,32.8K,$1.48,$4.55
+GPT-4.1 mini,text,67 tps,0.9s,1M,$0.34,$1.60
+ERNIE 4.5 300B A47B,text,23 tps,2.3s,123K,$0.28,$1.10
+GLM 4.7 FP8,text,40 tps,1.3s,200K,$0.30,$1.20
+QwQ 32B,text,41 tps,2.1s,16.4K,$0.43,$0.56
+Qwen3 32B Fast,text,30 tps,3.1s,41K,$0.10,$0.25
+Kimi K2 0905 Turbo,text,373 tps,0.5s,262.1K,$1.70,$6.50
+NVIDIA Llama 3.3 Nemotron Super 49B v1.5,text,50 tps,0.6s,131.1K,$0.09,$0.33
+Qwen3 235B A22B Thinking 2507,text,53 tps,1.6s,131.1K,$0.59,$5.70
+DeepSeek V3,text,69 tps,1.1s,64K,$0.59,$1.49
+Qwen3 30B A3B,text,164 tps,1.0s,41K,$0.06,$0.21
+Qwen3 VL 235B A22B Thinking,text,47 tps,3.0s,127K,$0.47,$3.31
+Command A,text,42 tps,0.8s,256K,$2.00,$7.33
+Seed 2.0 Mini (Low),text,33 tps,1.8s,256K,$0.20,$0.80
+Qwen3 Max Thinking,text,32 tps,2.3s,256K,$1.20,$6.00
+DeepSeek V3.1 Thinking,text,18 tps,1.8s,131.1K,$0.23,$0.75
+GPT-4.1 nano,text,176 tps,0.5s,1M,$0.10,$0.40
+Qwen3 14B,text,109 tps,0.8s,41K,$0.04,$0.15
+DeepSeek V3.2 Speciale,text,43 tps,1.4s,131.1K,$0.84,$1.52
+DeepSeek-R1 0528,text,93 tps,0.5s,64K,$1.60,$3.67
+Nemotron 3 Nano,text,216 tps,0.8s,256K,$0.05,$4.94
+Kimi K2 0905,text,30 tps,1.4s,262.1K,$0.63,$2.39
+OpenAI o4-mini,text,97 tps,7.0s,128K,$1.10,$4.40
+GLM 4.6V,text,21 tps,1.8s,128K,$0.38,$0.90
+Qwen3 VL 30B A3B Instruct,text,79 tps,2.6s,129K,$0.18,$0.67
+Seed 2.0 Mini (Medium),text,33 tps,1.7s,256K,$0.15,$0.60
+Mistral Medium 3,text,47 tps,0.8s,32.8K,$0.40,$2.00
+Solar Pro 2 251215,text,107 tps,1.5s,65.5K,$0.15,$0.60
+Seed 1.6 250615,text,46 tps,2.2s,256K,$0.25,$2.00
+Gemini 2.0 Flash,text,76 tps,0.5s,1M,$0.14,$0.56
+Gemini 2.0 Flash Lite,text,42 tps,0.5s,1M,$0.08,$0.30
+DeepSeek-R1,text,133 tps,0.6s,64K,$0.91,$3.07
+OpenAI o4-mini-high,text,117 tps,15.9s,200K,$1.10,$4.40
+OpenAI o1-pro,text,33 tps,72.3s,200K,$150.00,$600.00
+OpenAI o3,text,85 tps,6.8s,128K,$7.33,$29.33
+Qwen3 30B A3B Thinking 2507,text,124 tps,1.2s,131.1K,$0.16,$1.70
+OpenAI o1,text,92 tps,5.5s,200K,$15.00,$60.00
+Qwen 2.5 32B Instruct,text,48 tps,1.0s,131.1K,$0.21,$0.25
+Ministral 14B 3.0,text,119 tps,0.5s,128K,$0.20,$0.20
+Qwen3 Next 80B A3B Thinking,text,175 tps,1.3s,256K,$0.21,$2.26
+GPT-5 Nano,text,113 tps,20.9s,400K,$0.05,$0.40
+Cogito v2.1 671B,text,85 tps,0.5s,128K,$1.25,$1.25
+Apriel 1.5 15B Thinker,text,146 tps,0.4s,131.1K,$0.00,$0.00
+Llama 4 Scout,text,88 tps,5.1s,131.1K,$0.18,$0.46
+DeepSeek Prover v2,text,15 tps,1.3s,164K,$0.40,$1.56
+Llama 4 Maverick,text,88 tps,2.4s,1M,$0.23,$0.83
+Qwen3 8B,text,61 tps,1.4s,41K,$0.02,$0.07
+Mistral Small 3.1,text,13 tps,2.6s,32K,$0.17,$0.28
+Qwen3 4B,text,95 tps,1.5s,128K,$0.01,$0.01
+Qwen3 VL 30B A3B Thinking,text,84 tps,2.9s,127K,$0.20,$1.47
+DeepSeek R1T2 Chimera,text,29 tps,1.8s,163.8K,$0.13,$0.45
+Kimi K2 0711,text,29 tps,1.3s,131.1K,$0.72,$2.60
+Pixtral Large,text,57 tps,1.3s,128K,$1.50,$4.50
+ERNIE 4.5 21B A3B,text,78 tps,1.5s,120K,$0.05,$0.19
+Devstral Medium,text,77 tps,0.6s,131.1K,$0.40,$2.00
+Llama 3.1 8B Turbo,text,649 tps,0.5s,128K,$0.13,$0.14
+Devstral Small 2507,text,186 tps,0.5s,131.1K,$0.10,$0.30
+Mistral Small 3.2 24B,text,141 tps,0.7s,32.8K,$0.02,$0.08
+OpenAI o3-mini-low,text,139 tps,1.5s,200K,$1.10,$4.40
+MiMo V2 Flash,text,25 tps,1.9s,262.1K,$0.07,$0.23
+OpenAI o3-mini,text,143 tps,3.3s,200K,$1.10,$4.40
+Mistral Small 3.1 24B Instruct,text,15 tps,2.4s,131.1K,$0.06,$0.18
+GLM 4.7 Flash,text,61 tps,2.8s,128K,$0.07,$0.39
+Inception Mercury,text,257 tps,1.1s,32K,$0.25,$1.00
+Qwen 2.5 72B,text,96 tps,1.2s,131.1K,$0.14,$0.26
+Switchpoint Router,text,71 tps,4.9s,131.1K,$0.85,$3.40
+Amazon Nova Pro 1.0,text,96 tps,0.7s,300K,$0.80,$1.70
+Baichuan-M2-32B,text,32 tps,3.3s,131.1K,$0.07,$0.07
+Llama 3.1 70B Instruct,text,30 tps,0.8s,128K,$0.17,$0.22
+Gemma 3n E4B,text,30 tps,0.5s,8.2K,$0.01,$0.02
+Grok 3 Mini Fast,text,44 tps,0.5s,131.1K,$0.60,$4.00
+Jamba 1.6 Large,text,59 tps,1.2s,256K,$1.33,$5.33
+Grok 3 Mini,text,43 tps,0.5s,131.1K,$0.30,$0.50
+GLM 4.6V Flash,text,64 tps,2.1s,128K,$0.04,$0.40
+Gemma 3 27B,text,35 tps,1.1s,65.5K,$0.06,$0.10
+Mistral Small 3.2 24B Instruct,text,113 tps,1.1s,131.1K,$0.02,$0.08
+Jamba 1.7 Large,text,58 tps,1.0s,256K,$1.33,$5.33
+Llama 3.3 70B,text,500 tps,0.5s,8.2K,$0.48,$0.66
+Magistral Small 2506,text,156 tps,0.5s,40K,$0.37,$1.10
+GLM 4.5 Flash,text,15 tps,2.2s,131.1K,$0.00,$0.00
+Llama 3.2 11B Instruct,text,152 tps,0.5s,8.2K,$0.16,$0.16
+Llama 3 70B,text,21 tps,1.7s,8.2K,$1.08,$1.38
+Mistral Small 3 24B Instruct,text,77 tps,0.6s,32.8K,$0.07,$0.14
+INTELLECT-3,text,114 tps,0.6s,131.1K,$0.20,$1.10
+Devstral Small,text,180 tps,0.6s,131.1K,$0.10,$0.30
+ERNIE 4.5 VL 424B A47B,text,36 tps,3.5s,123K,$0.42,$1.25
+GPT-4o mini,text,71 tps,1.7s,128K,$0.15,$0.60
+Mistral Small 24B Instruct,text,84 tps,0.4s,32.8K,$0.80,$0.80
+Gemma 3 27B IT,text,60 tps,0.8s,128K,$0.17,$0.29
+Llama 3 8B,text,85 tps,0.8s,8.2K,$0.12,$0.16
+Qwen 2.5 7B Turbo,text,125 tps,0.4s,131.1K,$0.30,$0.30
+OLMo 3.1 32B Think,text,78 tps,1.0s,65.5K,$0.12,$0.37
+Qwen 2.5 14B Instruct,text,40 tps,1.6s,1M,$0.40,$1.61
+Seed 1.6 Flash 250715,text,108 tps,1.6s,256K,$0.07,$0.30
+Llama 3.3 Swallow 70B Instruct,text,153 tps,1.3s,131.1K,$0.13,$0.39
+GPT-3.5 Turbo,text,74 tps,0.9s,16K,$0.75,$1.75
+Qwen3.5 9B FP8,text,64 tps,0.7s,256K,$0.10,$0.15
+Gemma 3 12B,text,73 tps,0.8s,131.1K,$0.05,$0.12
+Krutrim 2,text,33 tps,2.1s,128K,$1.00,$1.00
+OpenAI o3-mini-high,text,232 tps,10.5s,200K,$1.10,$4.40
+Llama 3.3 70B Instruct Turbo,text,78 tps,1.0s,131.1K,$0.88,$0.88
+Qwen 2.5 VL 32B Instruct,text,43 tps,3.2s,128K,$0.35,$0.62
+C4AI Aya Expanse 32B,text,43 tps,0.5s,128K,$0.50,$1.50
+Qwen 2.5 7B,text,40 tps,1.9s,131.1K,$0.08,$0.27
+Moonshot V1 128k,text,54 tps,1.5s,131.1K,$2.00,$5.00
+Jamba 1.5 Large,text,48 tps,1.0s,256K,$1.50,$6.00
+Sky T1 32B Preview,text,73 tps,0.6s,16.4K,$0.12,$0.18
+Rnj-1 Instruct,text,103 tps,0.3s,32.8K,$0.15,$0.15
+GPT-3.5 Turbo 16k,text,22 tps,0.6s,16.4K,$3.00,$4.00
+Command R 7B,text,76 tps,0.4s,128K,$0.04,$0.15
+Open Mistral Nemo,text,172 tps,0.5s,131.1K,$0.15,$0.15
+Command R,text,54 tps,0.6s,128K,$0.30,$0.99
+Magistral Medium 2509,text,58 tps,0.9s,131.1K,$2.00,$5.00
+Moonshot V1 Auto,text,54 tps,1.5s,8.2K,$2.00,$5.00
+ERNIE 4.5 21B A3B Thinking,text,87 tps,1.5s,120K,$0.07,$0.28
+Ministral 8B,text,177 tps,0.4s,128K,$0.14,$0.14
+Krutrim Spectre V2,text,33 tps,3.1s,4K,$0.19,$0.19
+Llama 3.1 8B,text,61 tps,1.0s,8.2K,$0.07,$0.09
+Hermes 2 Pro Llama 3 8B,text,76 tps,1.0s,131.1K,$0.08,$0.09
+Mixtral 8x7B,text,142 tps,0.6s,32.8K,$0.23,$0.23
+Gemma 3 4B,text,138 tps,0.7s,131.1K,$0.02,$0.04
+GLM 4 32B,text,40 tps,1.6s,32.8K,$0.14,$0.14
+Command R+,text,36 tps,0.7s,128K,$2.08,$9.45
+Mistral Nemo,text,112 tps,0.4s,131.1K,$0.07,$0.13
+Moonshot V1 8k,text,55 tps,1.5s,8.2K,$0.20,$2.00
+Hermes 4 405B FP8,text,31 tps,0.9s,131.1K,$0.52,$1.73
+Moonshot V1 32k,text,53 tps,1.4s,32.8K,$1.00,$3.00
+GPT-3.5 Turbo Instruct,text,46 tps,1.2s,4.1K,$1.50,$2.00
+Mixtral 8x22B,text,140 tps,0.6s,64K,$2.00,$6.00
+WizardLM-2 8x22B,text,11 tps,2.5s,65.5K,$0.77,$0.77
+Llama 3.3 70B Instruct,text,28 tps,1.3s,128K,$0.38,$0.55
+Amazon Nova Micro 1.0,text,193 tps,0.6s,128K,$0.04,$0.07
+DeepSeek-R1 Distill Llama 70B,text,26 tps,1.6s,32K,$0.73,$0.95
+Ministral 3B,text,248 tps,0.4s,131.1K,$0.08,$0.08
+Mixtral 8x22B Instruct,text,142 tps,0.7s,65.5K,$0.45,$0.45
+Hermes 4 70B,text,67 tps,0.6s,131.1K,$0.12,$0.39
+Gemma 2 27B,text,44 tps,1.4s,8.2K,$0.80,$0.80
+Jamba Mini 2 2026 01,text,160 tps,0.9s,256K,$0.20,$0.40
+GPT-4 Turbo,text,21 tps,1.9s,128K,$10.00,$30.00
+Mixtral 8x7B Instruct,text,86 tps,0.7s,32.8K,$0.23,$0.31
+Phi 4,text,28 tps,1.3s,128K,$0.10,$0.32
+Solar Mini 250422,text,90 tps,1.7s,32.8K,$0.15,$0.15
+Gemma 3 1B,text,176 tps,1.0s,32.8K,$0.06,$0.10
+Hermes 4 405B Reasoning FP8,text,32 tps,0.8s,131.1K,$1.00,$3.00
+Mistral Small,text,142 tps,0.6s,32K,$0.43,$1.30
+Nemotron Nano 12B v2 VL,text,119 tps,0.9s,128K,$0.10,$0.30
+Open Mistral 7B,text,176 tps,0.4s,32.8K,$0.25,$0.25
+Apriel 1.6 15B Thinker,text,91 tps,0.4s,131.1K,$0.00,$0.00
+Mixtral-8x7B Instruct v0.1,text,54 tps,0.4s,32.8K,$0.60,$0.60
+Magistral Small 2509,text,116 tps,0.6s,131.1K,$0.50,$1.50
+Ministral 3B 2512,text,339 tps,0.6s,131.1K,$0.10,$0.10
+Inflection 3 Productivity,text,50 tps,3.2s,8K,$2.50,$10.00
+LFM2 2.6B,text,184 tps,0.4s,32.8K,$0.01,$0.02
+Inflection 3 Pi,text,33 tps,3.5s,8K,$2.50,$10.00
+Mistral Large,text,54 tps,0.7s,32.8K,$2.00,$6.00
+Hermes 3 405B Instruct,text,20 tps,1.1s,131K,$0.80,$0.80
+C4AI Aya Expanse 8B,text,61 tps,0.4s,8.2K,$0.50,$1.50
+DeepHermes 3 Mistral 24B Preview,text,50 tps,1.0s,32.8K,$0.06,$0.25
+MiniMax M2-her,text,108 tps,0.7s,204.8K,$0.30,$1.20
+LFM2 8B A1B,text,142 tps,0.3s,32.8K,$0.01,$0.02
+DeepSeek-R1 Distill Qwen 32B,text,22 tps,1.8s,131.1K,$0.37,$0.39
+Pixtral 12B,text,101 tps,1.2s,131.1K,$0.08,$0.08
+Moonshot V1 128k Vision,text,44 tps,3.8s,131.1K,$2.00,$5.00
+Gemma 2 9B,text,100 tps,0.4s,8.2K,$0.09,$0.09
+MythoMax L2 13B,text,22 tps,1.1s,4.1K,$0.18,$0.18
+Goliath 120B,text,21 tps,2.2s,6.1K,$6.56,$9.38
+MiniMax M1,text,31 tps,2.8s,1M,$0.55,$2.20
+Phi 4 Mini Instruct,text,40 tps,1.1s,128K,$0.07,$0.30
+Hunyuan A13B Instruct,text,67 tps,2.0s,32.8K,$0.01,$0.01
+Phi 4 Reasoning,text,29 tps,1.0s,32.8K,$0.06,$0.25
+Qwen 2.5 VL 3B Instruct,text,44 tps,2.5s,128K,$0.21,$0.63
+UI-TARS 1.5 7B,text,75 tps,0.9s,128K,$0.10,$0.20
+Nemotron Nano 12B v2,text,119 tps,1.1s,128K,$0.06,$0.23
+LFM2.5 1.2B Thinking,text,258 tps,0.4s,32.8K,$0.00,$0.00
+Phi 4 Mini Reasoning,text,30 tps,0.9s,128K,$0.07,$0.30
+
+Nano Banana Pro 4K,image,null,63.7s,null,null,$0.24
+Nano Banana Pro 2K,image,null,46.4s,null,null,$0.134
+Nano Banana 2,image,null,28.9s,null,null,$0.073
+GPT Image 1.5,image,null,46.0s,null,null,$0.04
+Nano Banana Pro,image,null,20.5s,null,null,$0.134
+Grok Imagine Image,image,null,7.7s,null,null,$0.02
+Grok Imagine Image Pro,image,null,34.2s,null,null,$0.07
+Seedream 4.5,image,null,21.0s,null,null,$0.036
+Seedream 4.5 Max,image,null,30.0s,null,null,$0.036
+FLUX.2 Max,image,null,42.0s,null,null,$0.07
+FLUX.2 Pro,image,null,17.6s,null,null,$0.03
+Seedream 5.0 Lite,image,null,36.0s,null,null,$0.035
+Nano Banana,image,null,8.8s,null,null,$0.039
+Seedream 4.0 Max,image,null,30.6s,null,null,$0.029
+Seedream 4.0,image,null,13.8s,null,null,$0.029
+Google Imagen 4 Preview,image,null,10.3s,null,null,$0.047
+HunyuanImage 3 Instruct,image,null,59.8s,null,null,$0.09
+Qwen Image 2.0,image,null,null,null,null,$0.035
+FLUX.2 Flex,image,null,20.3s,null,null,$0.06
+FLUX.2 [dev] Turbo,image,null,7.8s,null,null,$0.008
+GPT Image 1,image,null,47.4s,null,null,$0.04
+Google Imagen 4,image,null,8.3s,null,null,$0.04
+FLUX.2 Dev,image,null,9.9s,null,null,$0.012
+FLUX.2 [dev] Flash,image,null,7.6s,null,null,$0.005
+Reve Image,image,null,9.9s,null,null,$0.032
+Qwen Image 2.0 Pro,image,null,null,null,null,$0.075
+GPT Image 1 Mini,image,null,47.8s,null,null,$0.011
+HunyuanImage 3,image,null,42.9s,null,null,$0.075
+Seedream 3.0,image,null,6.2s,null,null,$0.03
+Qwen Image 2512,image,null,12.3s,null,null,$0.02
+FLUX.1 Kontext Pro,image,null,5.7s,null,null,$0.04
+FLUX.1 Kontext Max,image,null,14.9s,null,null,$0.08
+FLUX.2 [klein] 4B,image,null,2.9s,null,null,$0.014
+MiniMax Image 01,image,null,28.3s,null,null,$0.01
+Google Imagen 4 Fast,image,null,5.9s,null,null,$0.016
+Recraft V3,image,null,7.6s,null,null,$0.04
+FLUX.2 [klein] Base 9B,image,null,5.5s,null,null,$0.011
+Luma Photon,image,null,15.1s,null,null,$0.025
+FLUX.1 Kontext Dev,image,null,4.8s,null,null,$0.05
+HiDream i1 fast,image,null,5.8s,null,null,$0.015
+MiniMax Image,image,null,17.3s,null,null,$0.01
+FLUX1.1 Pro,image,null,3.6s,null,null,$0.047
+Ideogram V2 Turbo,image,null,12.6s,null,null,$0.05
+Qwen Image,image,null,8.2s,null,null,$0.02
+Recraft 20B,image,null,7.0s,null,null,$0.022
+GPT-5 Image,image,null,76.4s,null,null,$0
+FLUX1.1 Pro Ultra,image,null,8.6s,null,null,$0.06
+FLUX Dev,image,null,2.0s,null,null,$0.025
+Google Imagen 3 Fast,image,null,9.6s,null,null,$0.025
+HiDream i1 full,image,null,100.7s,null,null,$0.055
+Luma Photon Flash,image,null,11.8s,null,null,$0.007
+FLUX.2 [klein] Base 4B,image,null,4.1s,null,null,$0.009
+FLUX Dev Lora,image,null,12.1s,null,null,$0.032
+GPT-5 Image Mini,image,null,62.4s,null,null,$0
+Stable Diffusion 3.5 Large,image,null,7.8s,null,null,$0.065
+FLUX.1 Schnell (Fast),image,null,1.7s,null,null,$0.003
+Ideogram V3 Turbo,image,null,9.1s,null,null,$0.03
+Ideogram V3 Balanced,image,null,10.6s,null,null,$0.06
+Ideogram V3 Quality,image,null,11.9s,null,null,$0.09
+ByteDance SDXL Lightning 4-Step,image,null,2.5s,null,null,$0.02
+GLM Image,image,null,44.9s,null,null,$0.033
+Stable Image Ultra 1.0,image,null,10.3s,null,null,$0.08
+Z-Image Turbo,image,null,3.0s,null,null,$0.005
+Stability AI SDXL,image,null,9.3s,null,null,$0.05
+Sana,image,null,3.9s,null,null,$0.001
+HunyuanImage 2.1,image,null,100.4s,null,null,$0.1
+Stable Diffusion 3,image,null,4.8s,null,null,$0.035
+Stable Diffusion 3 Medium,image,null,44.4s,null,null,$0.035
+Bagel,image,null,89.2s,null,null,$0.1
+Ideogram V2,image,null,20.2s,null,null,$0.08
+Bria Fast,image,null,6.3s,null,null,$0.028
+Bria HD,image,null,21.3s,null,null,$0.04
+Stable Diffusion,image,null,4.3s,null,null,$0.05
+
+Claude Opus 4.6,coding,48 tps,1.7s,200K,$5.00,$25.00
+Claude Sonnet 4.6,coding,47 tps,1.2s,200K,$3.00,$15.00
+GPT-5.4,coding,55 tps,0.8s,1M,$2.50,$15.00
+Claude Opus 4.6 (Thinking),coding,56 tps,1.6s,200K,$5.00,$25.00
+Claude Sonnet 4.6 (Thinking),coding,57 tps,1.1s,200K,$3.00,$15.00
+Claude Opus 4.5 (Thinking),coding,49 tps,1.4s,200K,$5.00,$25.00
+Gemini 3.1 Pro,coding,35 tps,4.1s,1M,$2.00,$12.00
+Claude Opus 4.5,coding,45 tps,1.5s,200K,$5.00,$25.00
+GPT-5.3 Codex (High),coding,61 tps,17.8s,400K,$1.75,$14.00
+Claude Sonnet 4.5 (Thinking),coding,44 tps,1.1s,200K,$3.00,$15.00
+GPT-5.2 Instant,coding,52 tps,2.0s,400K,$1.75,$14.00
+Claude Haiku 4.5 (Extended Thinking),coding,115 tps,0.7s,200K,$1.00,$5.00
+GPT-5.2,coding,18 tps,2.7s,400K,$1.75,$14.00
+Gemini 3 Pro,coding,50 tps,3.6s,1M,$2.00,$12.00
+GLM 5,coding,36 tps,2.7s,200K,$0.72,$2.55
+GPT-5.1,coding,71 tps,1.4s,400K,$1.42,$11.33
+Claude Sonnet 4.5,coding,41 tps,1.3s,200K,$1.80,$9.00
+GPT-5.2 (High),coding,18 tps,16.3s,400K,$1.75,$14.00
+GPT-5.1 (High),coding,76 tps,6.9s,400K,$1.25,$10.00
+Kimi K2.5,coding,33 tps,1.7s,262.1K,$0.34,$2.57
+Gemini 3 Pro (Low),coding,51 tps,3.5s,1M,$2.00,$12.00
+Gemini 3 Flash Preview Thinking,coding,3 tps,6.2s,1M,$0.50,$3.00
+GPT-5.3 Codex (Medium),coding,62 tps,10.4s,400K,$1.75,$14.00
+Claude Haiku 4.5,coding,100 tps,0.9s,200K,$1.00,$5.00
+MiniMax M2.5,coding,70 tps,1.9s,204.8K,$0.28,$1.20
+GPT-5.3 Instant,coding,63 tps,0.8s,400K,$1.75,$14.00
+Claude Sonnet 4 (Thinking),coding,52 tps,1.5s,200K,$3.00,$13.67
+GPT-5 Codex (High),coding,122 tps,7.1s,400K,$1.25,$10.00
+GPT-5.2 Codex (High),coding,41 tps,12.9s,400K,$1.75,$14.00
+GPT-5 (High),coding,81 tps,35.9s,400K,$1.25,$10.00
+GPT-5.1 Codex (High),coding,96 tps,3.9s,400K,$1.25,$10.00
+Grok 4.1 Fast Non-Reasoning,coding,101 tps,0.5s,2M,$0.20,$0.50
+GPT-5 Chat,coding,95 tps,0.9s,400K,$1.25,$10.00
+Qwen3 Next 80B A3B Instruct,coding,84 tps,1.1s,256K,$0.20,$1.42
+MiniMax M2.5 Lightning,coding,51 tps,2.0s,204.8K,$0.60,$2.40
+Qwen3 VL 235B A22B Instruct,coding,75 tps,1.9s,129K,$0.37,$1.81
+GPT-5.2 (Extra High),coding,17 tps,20.5s,400K,$1.75,$14.00
+Qwen3.5 122B A17B,coding,82 tps,1.4s,256K,$0.40,$3.20
+GPT-5 Codex (Medium),coding,123 tps,5.1s,400K,$1.25,$10.00
+Qwen3.5 27B,coding,55 tps,2.6s,256K,$0.30,$2.40
+GPT-5.2 Codex (Medium),coding,38 tps,6.3s,400K,$1.75,$14.00
+Kimi K2.5 Instant,coding,32 tps,3.0s,262.1K,$0.50,$3.00
+Gemini 3 Flash Preview,coding,138 tps,1.4s,1M,$0.50,$3.00
+Claude Sonnet 4,coding,49 tps,1.3s,200K,$3.00,$15.00
+Gemini 2.5 Pro High,coding,48 tps,2.3s,1M,$1.25,$10.00
+Qwen3 Max Instruct Preview,coding,31 tps,1.7s,256K,$1.43,$6.61
+GPT-5.1 Codex Max,coding,118 tps,4.1s,400K,$1.25,$10.00
+MiniMax M2.1 Lightning,coding,52 tps,2.1s,204.8K,$0.30,$2.40
+Qwen3 30B A3B Instruct 2507,coding,55 tps,1.3s,131.1K,$0.13,$0.72
+Kimi K2 Thinking Turbo,coding,75 tps,1.4s,262.1K,$1.15,$8.00
+MiniMax M2.1,coding,66 tps,2.6s,204.8K,$0.30,$1.20
+DeepSeek V3.2,coding,84 tps,5.1s,131.1K,$0.43,$1.09
+GPT-5,coding,78 tps,23.1s,400K,$1.25,$9.67
+Grok 4 Fast Non-Reasoning,coding,93 tps,0.6s,2M,$0.27,$0.67
+Nova Experimental Chat 12-10,coding,84 tps,12.8s,98K,$0.00,$0.00
+MiniMax M2,coding,39 tps,2.3s,204.8K,$0.21,$0.85
+MiniMax M2.5 FP8,coding,33 tps,1.7s,204.8K,$0.45,$1.75
+GLM 4.6,coding,39 tps,1.5s,200K,$0.42,$1.66
+Grok 4.1 Fast Reasoning,coding,58 tps,7.3s,2M,$0.20,$0.50
+DeepSeek V3.2 Thinking,coding,30 tps,2.6s,131.1K,$0.28,$0.42
+Grok 4 Fast Reasoning,coding,102 tps,3.1s,2M,$0.30,$0.75
+GPT-5.3 Codex (Low),coding,61 tps,4.3s,400K,$1.75,$14.00
+Gemini 2.5 Pro,coding,45 tps,2.6s,1M,$1.25,$10.00
+Qwen3 235B A22B Instruct 2507,coding,13 tps,1.9s,262.1K,$0.13,$0.52
+Claude Sonnet 3.5 v2,coding,46 tps,1.4s,200K,$3.00,$15.00
+GPT-5.1 Codex (Medium),coding,71 tps,3.6s,400K,$1.25,$10.00
+GPT-5.1 Instant,coding,50 tps,1.9s,400K,$1.25,$10.00
+Grok 4.20 Beta Reasoning,coding,77 tps,4.5s,2M,$2.00,$5.50
+gpt-oss-120b,coding,213 tps,0.5s,131.1K,$0.11,$0.50
+GPT-5 Codex (Low),coding,112 tps,3.5s,400K,$1.25,$10.00
+GLM 4.7,coding,40 tps,1.5s,200K,$0.77,$1.73
+Qwen3.5 35B A3B,coding,116 tps,2.1s,256K,$0.63,$1.13
+DeepSeek V3.1 Terminus Chat,coding,28 tps,1.5s,131.1K,$0.86,$1.80
+Qwen Plus (Aug'24),coding,53 tps,1.3s,30K,$0.40,$1.20
+Gemini 2.5 Flash Preview 0925,coding,5 tps,0.9s,1M,$0.13,$0.97
+Qwen3.5 397B A17B,coding,57 tps,1.4s,256K,$0.52,$3.00
+Mistral Large 3,coding,51 tps,1.0s,256K,$0.50,$1.50
+GPT-5 Mini,coding,66 tps,14.2s,400K,$0.25,$2.00
+DeepSeek V3.1 Turbo,coding,173 tps,1.3s,163.8K,$2.00,$3.75
+Grok 4.20 Multi Agent Beta,coding,56 tps,8.8s,2M,$2.00,$6.00
+Qwen3 Max Thinking Preview,coding,40 tps,2.1s,256K,$1.20,$6.00
+Grok 4,coding,29 tps,11.1s,256K,$3.00,$15.00
+GPT-4.1,coding,112 tps,1.3s,1M,$2.00,$8.00
+Gemini 2.5 Flash Lite Preview 0925,coding,209 tps,0.7s,1M,$0.25,$0.35
+Gemini 2.5 Flash Thinking,coding,88 tps,6.4s,1M,$0.30,$2.50
+GPT-5.2 Codex (Low),coding,41 tps,5.0s,400K,$1.75,$14.00
+GPT-5 Mini Minimal,coding,63 tps,1.4s,400K,$0.25,$2.00
+Qwen3 Omni 30B A3B Thinking,coding,67 tps,1.2s,65.5K,$0.97,$1.79
+DeepSeek V3.1 Chat,coding,21 tps,1.6s,131.1K,$0.38,$1.00
+DeepSeek V3.2 Exp Chat,coding,29 tps,1.5s,131.1K,$0.27,$0.39
+Qwen Max,coding,49 tps,1.5s,32.8K,$1.60,$6.40
+Gemini 2.5 Flash Lite,coding,210 tps,0.7s,1M,$0.10,$0.40
+Step 3.5 Flash,coding,109 tps,0.6s,256K,$0.05,$0.15
+Grok 3 Fast,coding,52 tps,2.4s,131.1K,$5.00,$25.00
+GPT-4o,coding,49 tps,2.4s,128K,$3.71,$12.57
+Qwen3 Coder 480B A35B Instruct,coding,61 tps,2.0s,262.1K,$0.71,$1.34
+DeepSeek V3 0324,coding,12 tps,2.7s,163.8K,$0.38,$0.93
+Gemini 2.5 Flash,coding,2 tps,3.7s,1M,$0.30,$2.50
+Grok 3,coding,53 tps,0.6s,1M,$3.67,$18.33
+Qwen3 235B A22B,coding,71 tps,0.9s,41K,$0.23,$0.63
+DeepSeek V3 0324 Turbo,coding,12 tps,2.4s,163.8K,$0.73,$1.79
+DeepSeek V3.1,coding,197 tps,0.4s,163.8K,$0.55,$1.60
+DeepSeek V3.2 Exp Thinking,coding,26 tps,3.0s,131.1K,$0.28,$0.42
+OpenAI o3-pro,coding,22 tps,70.7s,200K,$20.00,$80.00
+GPT-4.1 mini,coding,67 tps,0.9s,1M,$0.34,$1.60
+GPT-4.1 nano,coding,176 tps,0.5s,1M,$0.10,$0.40
+DeepSeek V3 (Turbo),coding,32 tps,1.5s,64K,$0.40,$1.30
+Seed 1.8 251228,coding,41 tps,2.1s,256K,$0.25,$2.00
+Qwen3 Omni 30B A3B Instruct,coding,65 tps,1.2s,65.5K,$0.35,$0.97
+Qwen3 Max Thinking,coding,32 tps,2.3s,256K,$1.20,$6.00
+Mistral Medium,coding,48 tps,0.6s,32.8K,$1.48,$4.55
+GLM 4.5,coding,46 tps,1.4s,131.1K,$0.43,$1.63
+Kimi K2 0905,coding,30 tps,1.4s,262.1K,$0.63,$2.39
+Kimi K2 Fast,coding,367 tps,0.5s,131.1K,$1.00,$3.00
+Kimi K2 0905 Turbo,coding,373 tps,0.5s,262.1K,$1.70,$6.50
+GPT-5 (Low),coding,75 tps,8.2s,400K,$1.25,$10.00
+Grok 4.20 Beta Non-reasoning,coding,151 tps,0.6s,2M,$2.00,$6.00
+gpt-oss-20b,coding,216 tps,0.5s,131.1K,$0.06,$0.26
+OpenAI o1-pro,coding,33 tps,72.3s,200K,$150.00,$600.00
+DeepSeek V3.1 Terminus Thinking,coding,27 tps,1.8s,131.1K,$0.56,$1.68
+OpenAI o1,coding,92 tps,5.5s,200K,$15.00,$60.00
+Gemini 2.5 Flash Lite Thinking,coding,118 tps,4.4s,1M,$0.03,$0.13
+Seed 2.0 Lite (Medium),coding,33 tps,1.6s,256K,$0.25,$2.00
+LongCat Flash Chat,coding,85 tps,0.9s,131.1K,$0.14,$0.68
+GPT-5.1 Codex Mini (Medium),coding,69 tps,4.1s,400K,$0.25,$2.00
+GPT-5.1 Codex Mini (High),coding,71 tps,4.6s,400K,$0.25,$2.00
+Qwen3 32B Fast,coding,30 tps,3.1s,41K,$0.10,$0.25
+ERNIE 4.5 300B A47B,coding,23 tps,2.3s,123K,$0.28,$1.10
+Qwen3 32B,coding,30 tps,3.1s,41K,$0.12,$0.42
+Kimi K2 Thinking,coding,61 tps,5.9s,262.1K,$0.24,$1.03
+Cogito v2.1 671B,coding,85 tps,0.5s,128K,$1.25,$1.25
+OpenAI o4-mini,coding,97 tps,7.0s,128K,$1.10,$4.40
+Gemini 3.1 Flash Lite Preview Thinking,coding,75 tps,4.7s,1M,$0.25,$1.50
+GLM 4.5 AirX,coding,75 tps,1.2s,131.1K,$1.10,$4.50
+Qwen3 VL 30B A3B Instruct,coding,79 tps,2.6s,129K,$0.18,$0.67
+Gemini 2.5 Flash Lite Thinking Preview 0925,coding,152 tps,3.0s,1M,$0.10,$0.40
+QwQ 32B,coding,41 tps,2.1s,16.4K,$0.43,$0.56
+Qwen3 Next 80B A3B Thinking,coding,175 tps,1.3s,256K,$0.21,$2.26
+DeepSeek V3,coding,69 tps,1.1s,64K,$0.59,$1.49
+DeepSeek V3.2 Speciale,coding,43 tps,1.4s,131.1K,$0.84,$1.52
+Gemini 2.0 Flash Lite,coding,42 tps,0.5s,1M,$0.08,$0.30
+Amazon Nova 2 Lite,coding,137 tps,0.6s,300K,$0.35,$2.95
+Gemini 3.1 Flash Lite Preview,coding,8 tps,1.2s,1M,$0.25,$1.50
+Command A,coding,42 tps,0.8s,256K,$2.00,$7.33
+DeepSeek V3.1 Nex N1,coding,24 tps,7.3s,131.1K,$0.14,$0.50
+OpenAI o3,coding,85 tps,6.8s,128K,$7.33,$29.33
+Gemini 2.0 Flash,coding,76 tps,0.5s,1M,$0.14,$0.56
+Nemotron 3 Nano (Thinking),coding,199 tps,0.5s,256K,$0.00,$0.00
+Qwen 2.5 VL 32B Instruct,coding,43 tps,3.2s,128K,$0.35,$0.62
+Qwen3 VL 235B A22B Thinking,coding,47 tps,3.0s,127K,$0.47,$3.31
+Qwen3 Coder Plus,coding,56 tps,2.3s,128K,$1.80,$9.80
+DeepSeek-R1 Turbo,coding,29 tps,1.8s,64K,$2.85,$4.75
+Qwen3 235B A22B Thinking 2507,coding,53 tps,1.6s,131.1K,$0.59,$5.70
+OpenAI o3-mini,coding,143 tps,3.3s,200K,$1.10,$4.40
+OpenAI o3-mini-high,coding,232 tps,10.5s,200K,$1.10,$4.40
+Seed 1.6 250615,coding,46 tps,2.2s,256K,$0.25,$2.00
+OpenAI o4-mini-high,coding,117 tps,15.9s,200K,$1.10,$4.40
+Qwen3 30B A3B,coding,164 tps,1.0s,41K,$0.06,$0.21
+GPT-5 Nano,coding,113 tps,20.9s,400K,$0.05,$0.40
+OpenAI o3-mini-low,coding,139 tps,1.5s,200K,$1.10,$4.40
+GLM 4.6V,coding,21 tps,1.8s,128K,$0.38,$0.90
+Grok Code Fast 1,coding,294 tps,0.5s,256K,$0.20,$1.50
+Kimi K2 0711,coding,29 tps,1.3s,131.1K,$0.72,$2.60
+Nemotron 3 Nano,coding,216 tps,0.8s,256K,$0.05,$4.94
+Mistral Small 3.1 24B Instruct,coding,15 tps,2.4s,131.1K,$0.06,$0.18
+DeepSeek-R1 0528,coding,93 tps,0.5s,64K,$1.60,$3.67
+DeepSeek V3.1 Thinking,coding,18 tps,1.8s,131.1K,$0.23,$0.75
+Seed 2.0 Mini (Medium),coding,33 tps,1.7s,256K,$0.15,$0.60
+Qwen 2.5 32B Instruct,coding,48 tps,1.0s,131.1K,$0.21,$0.25
+Llama 4 Maverick,coding,88 tps,2.4s,1M,$0.23,$0.83
+Mistral Small 3.2 24B,coding,141 tps,0.7s,32.8K,$0.02,$0.08
+Pixtral Large,coding,57 tps,1.3s,128K,$1.50,$4.50
+Qwen3 VL 30B A3B Thinking,coding,84 tps,2.9s,127K,$0.20,$1.47
+Llama 4 Scout,coding,88 tps,5.1s,131.1K,$0.18,$0.46
+Devstral Medium,coding,77 tps,0.6s,131.1K,$0.40,$2.00
+Qwen3 14B,coding,109 tps,0.8s,41K,$0.04,$0.15
+Llama 3.1 8B Turbo,coding,649 tps,0.5s,128K,$0.13,$0.14
+Qwen 2.5 72B,coding,96 tps,1.2s,131.1K,$0.14,$0.26
+Qwen3 30B A3B Thinking 2507,coding,124 tps,1.2s,131.1K,$0.16,$1.70
+ERNIE 4.5 21B A3B,coding,78 tps,1.5s,120K,$0.05,$0.19
+Ministral 14B 3.0,coding,119 tps,0.5s,128K,$0.20,$0.20
+Qwen3 8B,coding,61 tps,1.4s,41K,$0.02,$0.07
+Switchpoint Router,coding,71 tps,4.9s,131.1K,$0.85,$3.40
+ERNIE 4.5 VL 424B A47B,coding,36 tps,3.5s,123K,$0.42,$1.25
+Grok 3 Mini Fast,coding,44 tps,0.5s,131.1K,$0.60,$4.00
+NVIDIA Llama 3.3 Nemotron Super 49B v1.5,coding,50 tps,0.6s,131.1K,$0.09,$0.33
+DeepSeek-R1,coding,133 tps,0.6s,64K,$0.91,$3.07
+DeepSeek Prover v2,coding,15 tps,1.3s,164K,$0.40,$1.56
+Llama 3.3 70B,coding,500 tps,0.5s,8.2K,$0.48,$0.66
+Codestral,coding,151 tps,0.9s,262.1K,$0.15,$0.45
+Grok 3 Mini,coding,43 tps,0.5s,131.1K,$0.30,$0.50
+Mistral Small 3.1,coding,13 tps,2.6s,32K,$0.17,$0.28
+Jamba 1.6 Large,coding,59 tps,1.2s,256K,$1.33,$5.33
+Open Mistral Nemo,coding,172 tps,0.5s,131.1K,$0.15,$0.15
+Jamba 1.7 Large,coding,58 tps,1.0s,256K,$1.33,$5.33
+Llama 3.3 Swallow 70B Instruct,coding,153 tps,1.3s,131.1K,$0.13,$0.39
+Seed 1.6 Flash 250715,coding,108 tps,1.6s,256K,$0.07,$0.30
+Devstral Small,coding,180 tps,0.6s,131.1K,$0.10,$0.30
+Rnj-1 Instruct,coding,103 tps,0.3s,32.8K,$0.15,$0.15
+Inception Mercury Coder Small Beta,coding,270 tps,1.4s,32K,$0.25,$1.00
+Magistral Small 2506,coding,156 tps,0.5s,40K,$0.37,$1.10
+GPT-3.5 Turbo,coding,74 tps,0.9s,16K,$0.75,$1.75
+Llama 3 8B,coding,85 tps,0.8s,8.2K,$0.12,$0.16
+Mistral Small 3.2 24B Instruct,coding,113 tps,1.1s,131.1K,$0.02,$0.08
+Amazon Nova Pro 1.0,coding,96 tps,0.7s,300K,$0.80,$1.70
+GPT-4o mini,coding,71 tps,1.7s,128K,$0.15,$0.60
+Moonshot V1 Auto,coding,54 tps,1.5s,8.2K,$2.00,$5.00
+GLM 4.6V Flash,coding,64 tps,2.1s,128K,$0.04,$0.40
+Llama 3.2 11B Instruct,coding,152 tps,0.5s,8.2K,$0.16,$0.16
+Moonshot V1 128k,coding,54 tps,1.5s,131.1K,$2.00,$5.00
+Magistral Medium 2509,coding,58 tps,0.9s,131.1K,$2.00,$5.00
+Gemma 3n E4B,coding,30 tps,0.5s,8.2K,$0.01,$0.02
+Mistral Small 3 24B Instruct,coding,77 tps,0.6s,32.8K,$0.07,$0.14
+Qwen3 4B,coding,95 tps,1.5s,128K,$0.01,$0.01
+Inception Mercury,coding,257 tps,1.1s,32K,$0.25,$1.00
+Mistral Medium 3,coding,47 tps,0.8s,32.8K,$0.40,$2.00
+DeepSeek R1T2 Chimera,coding,29 tps,1.8s,163.8K,$0.13,$0.45
+GLM 4.7 Flash,coding,61 tps,2.8s,128K,$0.07,$0.39
+Mistral Nemo,coding,112 tps,0.4s,131.1K,$0.07,$0.13
+Solar Mini 250422,coding,90 tps,1.7s,32.8K,$0.15,$0.15
+Mixtral 8x22B,coding,140 tps,0.6s,64K,$2.00,$6.00
+GLM 4 32B,coding,40 tps,1.6s,32.8K,$0.14,$0.14
+Qwen 2.5 7B Turbo,coding,125 tps,0.4s,131.1K,$0.30,$0.30
+Krutrim Spectre V2,coding,33 tps,3.1s,4K,$0.19,$0.19
+Gemma 3 12B,coding,73 tps,0.8s,131.1K,$0.05,$0.12
+Moonshot V1 8k,coding,55 tps,1.5s,8.2K,$0.20,$2.00
+Mistral Small 24B Instruct,coding,84 tps,0.4s,32.8K,$0.80,$0.80
+Hermes 2 Pro Llama 3 8B,coding,76 tps,1.0s,131.1K,$0.08,$0.09
+Qwen 2.5 14B Instruct,coding,40 tps,1.6s,1M,$0.40,$1.61
+Ministral 3B 2512,coding,339 tps,0.6s,131.1K,$0.10,$0.10
+Mixtral 8x7B Instruct,coding,86 tps,0.7s,32.8K,$0.23,$0.31
+Mixtral 8x7B,coding,142 tps,0.6s,32.8K,$0.23,$0.23
+Llama 3.3 70B Instruct Turbo,coding,78 tps,1.0s,131.1K,$0.88,$0.88
+Gemma 3 27B,coding,35 tps,1.1s,65.5K,$0.06,$0.10
+Gemma 3 27B IT,coding,60 tps,0.8s,128K,$0.17,$0.29
+Command R 7B,coding,76 tps,0.4s,128K,$0.04,$0.15
+Jamba 1.5 Large,coding,48 tps,1.0s,256K,$1.50,$6.00
+ERNIE 4.5 21B A3B Thinking,coding,87 tps,1.5s,120K,$0.07,$0.28
+GPT-3.5 Turbo 16k,coding,22 tps,0.6s,16.4K,$3.00,$4.00
+DeepSeek-R1 Distill Llama 70B,coding,26 tps,1.6s,32K,$0.73,$0.95
+Mixtral-8x7B Instruct v0.1,coding,54 tps,0.4s,32.8K,$0.60,$0.60
+GLM 4.5 Flash,coding,15 tps,2.2s,131.1K,$0.00,$0.00
+Ministral 8B,coding,177 tps,0.4s,128K,$0.14,$0.14
+LFM2 2.6B,coding,184 tps,0.4s,32.8K,$0.01,$0.02
+Qwen 2.5 7B,coding,40 tps,1.9s,131.1K,$0.08,$0.27
+Krutrim 2,coding,33 tps,2.1s,128K,$1.00,$1.00
+Moonshot V1 32k,coding,53 tps,1.4s,32.8K,$1.00,$3.00
+Sky T1 32B Preview,coding,73 tps,0.6s,16.4K,$0.12,$0.18
+C4AI Aya Expanse 32B,coding,43 tps,0.5s,128K,$0.50,$1.50
+LFM2 8B A1B,coding,142 tps,0.3s,32.8K,$0.01,$0.02
+Gemma 2 27B,coding,44 tps,1.4s,8.2K,$0.80,$0.80
+Magistral Small 2509,coding,116 tps,0.6s,131.1K,$0.50,$1.50
+Ministral 3B,coding,248 tps,0.4s,131.1K,$0.08,$0.08
+Phi 4,coding,28 tps,1.3s,128K,$0.10,$0.32
+Gemma 3 1B,coding,176 tps,1.0s,32.8K,$0.06,$0.10
+Hermes 4 405B FP8,coding,31 tps,0.9s,131.1K,$0.52,$1.73
+WizardLM-2 8x22B,coding,11 tps,2.5s,65.5K,$0.77,$0.77
+Mercury Coder,coding,247 tps,2.2s,32K,$0.25,$1.00
+Hermes 4 70B,coding,67 tps,0.6s,131.1K,$0.12,$0.39
+GPT-3.5 Turbo Instruct,coding,46 tps,1.2s,4.1K,$1.50,$2.00
+Mistral Large,coding,54 tps,0.7s,32.8K,$2.00,$6.00
+Command R,coding,54 tps,0.6s,128K,$0.30,$0.99
+Mistral Small,coding,142 tps,0.6s,32K,$0.43,$1.30
+Baichuan-M2-32B,coding,32 tps,3.3s,131.1K,$0.07,$0.07
+Open Mistral 7B,coding,176 tps,0.4s,32.8K,$0.25,$0.25
+Hermes 4 405B Reasoning FP8,coding,32 tps,0.8s,131.1K,$1.00,$3.00
+Goliath 120B,coding,21 tps,2.2s,6.1K,$6.56,$9.38
+Inflection 3 Productivity,coding,50 tps,3.2s,8K,$2.50,$10.00
+Gemma 3 4B,coding,138 tps,0.7s,131.1K,$0.02,$0.04
+Command R+,coding,36 tps,0.7s,128K,$2.08,$9.45
+Qwen 2.5 VL 72B Instruct,coding,26 tps,3.7s,128K,$1.01,$2.79
+Mixtral 8x22B Instruct,coding,142 tps,0.7s,65.5K,$0.45,$0.45
+Pixtral 12B,coding,101 tps,1.2s,131.1K,$0.08,$0.08
+Inflection 3 Pi,coding,33 tps,3.5s,8K,$2.50,$10.00
+DeepHermes 3 Mistral 24B Preview,coding,50 tps,1.0s,32.8K,$0.06,$0.25
+Hermes 3 405B Instruct,coding,20 tps,1.1s,131K,$0.80,$0.80
+DeepSeek-R1 Distill Qwen 32B,coding,22 tps,1.8s,131.1K,$0.37,$0.39
+MiniMax M1,coding,31 tps,2.8s,1M,$0.55,$2.20
+UI-TARS 1.5 7B,coding,75 tps,0.9s,128K,$0.10,$0.20
+Phi 4 Mini Instruct,coding,40 tps,1.1s,128K,$0.07,$0.30
+MythoMax L2 13B,coding,22 tps,1.1s,4.1K,$0.18,$0.18
+Hunyuan A13B Instruct,coding,67 tps,2.0s,32.8K,$0.01,$0.01
+Phi 4 Reasoning,coding,29 tps,1.0s,32.8K,$0.06,$0.25
+Qwen 2.5 VL 3B Instruct,coding,44 tps,2.5s,128K,$0.21,$0.63
+CodeLlama 7B Instruct Solidity,coding,33 tps,0.7s,16K,$0.80,$1.20
+Phi 4 Mini Reasoning,coding,30 tps,0.9s,128K,$0.07,$0.30
+
+Gemini 3.1 Pro Online,search,29 tps,24.2s,1M,$2.00,$12.00
+GPT-5.1 Search (High),search,63 tps,12.6s,400K,$1.25,$10.00
+Claude Opus 4.5 (Thinking) Online,search,48 tps,1.3s,200K,$5.00,$25.00
+Claude Sonnet 4.5 (Thinking) Online,search,41 tps,1.4s,200K,$3.00,$15.00
+Claude Opus 4.5 Online,search,46 tps,3.4s,200K,$5.00,$25.00
+Gemini 3 Flash Preview Online,search,6 tps,1.9s,1M,$0.50,$3.00
+GPT-5.1 Search,search,73 tps,2.4s,400K,$1.25,$10.00
+Gemini 3 Flash Preview Thinking Online,search,2 tps,8.7s,1M,$0.50,$3.00
+Claude Sonnet 4.5 Online,search,38 tps,3.7s,200K,$3.00,$15.00
+GPT-5 Search (High),search,51 tps,23.7s,400K,$1.25,$10.00
+Grok 4 Fast Reasoning Online,search,102 tps,3.6s,2M,$0.30,$0.75
+GPT-5.2 Search (High),search,5 tps,34.6s,400K,$1.75,$14.00
+Grok 4.1 Fast Reasoning Online,search,44 tps,16.4s,2M,$0.20,$0.50
+Claude Sonnet 4 (Thinking) Online,search,46 tps,1.5s,200K,$3.00,$15.00
+Gemini 2.5 Pro Online,search,42 tps,5.1s,1M,$1.25,$10.00
+Claude Sonnet 4 Online,search,42 tps,1.9s,200K,$3.00,$15.00
+OpenAI o3 Search,search,35 tps,5.1s,128K,$2.00,$8.00
+GPT-5 Mini Low Search,search,68 tps,4.8s,400K,$0.25,$2.00
+GPT-5 Mini Search,search,65 tps,8.7s,400K,$0.25,$2.00
+Gemini 2.5 Flash Thinking Online,search,82 tps,5.2s,1M,$0.30,$2.50
+OpenAI o4-mini Search,search,50 tps,4.6s,128K,$1.10,$4.40
+Perplexity Sonar Pro,search,87 tps,1.7s,200K,$3.00,$15.00
+Gemini 2.5 Flash Online,search,81 tps,5.3s,1M,$0.30,$2.50
+GPT-5 Search,search,56 tps,16.0s,400K,$1.25,$10.00
+Compound Beta Mini,search,334 tps,0.7s,8.2K,$0.10,$0.40
+Perplexity Sonar Reasoning Pro,search,77 tps,2.3s,128K,$2.00,$8.00
+Gemini 2.0 Flash Online,search,74 tps,0.8s,1M,$0.15,$0.60
+Gemini 2.5 Flash Lite Online,search,129 tps,2.0s,1M,$0.10,$0.40
+GPT-4.1 Search,search,53 tps,2.4s,128K,$3.00,$12.00
+Perplexity Sonar,search,86 tps,1.9s,127K,$1.00,$1.00
+Gemini 2.5 Flash Lite Thinking Online,search,88 tps,3.8s,1M,$0.10,$0.40
+GPT-4o Search,search,49 tps,3.4s,128K,$2.50,$10.00
+GPT-4o mini Search Preview,search,87 tps,2.2s,128K,$0.15,$0.60
+GPT-4.1 mini Search,search,71 tps,1.4s,128K,$0.25,$2.00
+GPT-5 Mini High Search,search,55 tps,21.1s,400K,$0.25,$2.00
+
+Claude Opus 4.6 (Thinking),vision,56 tps,1.6s,200K,$5.00,$25.00
+Gemini 3.1 Pro,vision,35 tps,4.1s,1M,$2.00,$12.00
+GPT-5.4,vision,55 tps,0.8s,1M,$2.50,$15.00
+Claude Opus 4.6,vision,48 tps,1.7s,200K,$5.00,$25.00
+Claude Sonnet 4.6,vision,47 tps,1.2s,200K,$3.00,$15.00
+Gemini 3 Pro (Low),vision,51 tps,3.5s,1M,$2.00,$12.00
+GPT-5.2 Instant,vision,52 tps,2.0s,400K,$1.75,$14.00
+Gemini 3 Pro,vision,50 tps,3.6s,1M,$2.00,$12.00
+GPT-5 Chat,vision,95 tps,0.9s,400K,$1.25,$10.00
+GPT-5.2,vision,18 tps,2.7s,400K,$1.75,$14.00
+Gemini 3 Flash Preview Thinking,vision,3 tps,6.2s,1M,$0.50,$3.00
+Claude Sonnet 4.6 (Thinking),vision,57 tps,1.1s,200K,$3.00,$15.00
+Grok 4.20 Beta Non-reasoning,vision,151 tps,0.6s,2M,$2.00,$6.00
+Gemini 3 Flash Preview,vision,138 tps,1.4s,1M,$0.50,$3.00
+Grok 4.20 Beta Reasoning,vision,77 tps,4.5s,2M,$2.00,$5.50
+Claude Opus 4.5 (Thinking),vision,49 tps,1.4s,200K,$5.00,$25.00
+GPT-5.1 (High),vision,76 tps,6.9s,400K,$1.25,$10.00
+GPT-5.1,vision,71 tps,1.4s,400K,$1.42,$11.33
+GPT-5.3 Instant,vision,63 tps,0.8s,400K,$1.75,$14.00
+Gemini 3.1 Flash Lite Preview Thinking,vision,75 tps,4.7s,1M,$0.25,$1.50
+Gemini 2.5 Pro High,vision,48 tps,2.3s,1M,$1.25,$10.00
+Gemini 3.1 Flash Lite Preview,vision,8 tps,1.2s,1M,$0.25,$1.50
+GPT-5.2 (High),vision,18 tps,16.3s,400K,$1.75,$14.00
+Gemini 2.5 Pro,vision,45 tps,2.6s,1M,$1.25,$10.00
+GPT-5.1 Instant,vision,50 tps,1.9s,400K,$1.25,$10.00
+Kimi K2.5,vision,33 tps,1.7s,262.1K,$0.34,$2.57
+GPT-4o,vision,49 tps,2.4s,128K,$3.71,$12.57
+Gemini 2.5 Flash Thinking,vision,88 tps,6.4s,1M,$0.30,$2.50
+Qwen3.5 397B A17B,vision,57 tps,1.4s,256K,$0.52,$3.00
+GPT-5,vision,78 tps,23.1s,400K,$1.25,$9.67
+GPT-5 Mini,vision,66 tps,14.2s,400K,$0.25,$2.00
+GPT-5.2 (Extra High),vision,17 tps,20.5s,400K,$1.75,$14.00
+Gemini 2.5 Flash Preview 0925,vision,5 tps,0.9s,1M,$0.13,$0.97
+Qwen3 VL 235B A22B Instruct,vision,75 tps,1.9s,129K,$0.37,$1.81
+Grok 4.20 Multi Agent Beta,vision,56 tps,8.8s,2M,$2.00,$6.00
+Gemini 2.5 Flash Lite Thinking Preview 0925,vision,152 tps,3.0s,1M,$0.10,$0.40
+Kimi K2.5 Instant,vision,32 tps,3.0s,262.1K,$0.50,$3.00
+Gemini 2.5 Flash Lite Preview 0925,vision,209 tps,0.7s,1M,$0.25,$0.35
+Seed 2.0 Lite (Medium),vision,33 tps,1.6s,256K,$0.25,$2.00
+Gemini 2.5 Flash,vision,2 tps,3.7s,1M,$0.30,$2.50
+GPT-4.1 mini,vision,67 tps,0.9s,1M,$0.34,$1.60
+Qwen3.5 35B A3B,vision,116 tps,2.1s,256K,$0.63,$1.13
+Claude Sonnet 4.5 (Thinking),vision,44 tps,1.1s,200K,$3.00,$15.00
+GPT-5 (High),vision,81 tps,35.9s,400K,$1.25,$10.00
+Claude Opus 4.5,vision,45 tps,1.5s,200K,$5.00,$25.00
+GPT-5 Mini Minimal,vision,63 tps,1.4s,400K,$0.25,$2.00
+Grok 4.1 Fast Reasoning,vision,58 tps,7.3s,2M,$0.20,$0.50
+Qwen3.5 122B A17B,vision,82 tps,1.4s,256K,$0.40,$3.20
+Grok 4,vision,29 tps,11.1s,256K,$3.00,$15.00
+Grok 4 Fast Reasoning,vision,102 tps,3.1s,2M,$0.30,$0.75
+Grok 4 Fast Non-Reasoning,vision,93 tps,0.6s,2M,$0.27,$0.67
+Claude Sonnet 4.5,vision,41 tps,1.3s,200K,$1.80,$9.00
+Claude Sonnet 4,vision,49 tps,1.3s,200K,$3.00,$15.00
+Claude Haiku 4.5 (Extended Thinking),vision,115 tps,0.7s,200K,$1.00,$5.00
+Qwen3.5 27B,vision,55 tps,2.6s,256K,$0.30,$2.40
+Seed 1.8 251228,vision,41 tps,2.1s,256K,$0.25,$2.00
+Gemini 2.5 Flash Lite Thinking,vision,118 tps,4.4s,1M,$0.03,$0.13
+Qwen3 VL 235B A22B Thinking,vision,47 tps,3.0s,127K,$0.47,$3.31
+Grok 4.1 Fast Non-Reasoning,vision,101 tps,0.5s,2M,$0.20,$0.50
+Qwen3 VL 30B A3B Instruct,vision,79 tps,2.6s,129K,$0.18,$0.67
+GPT-5 Nano,vision,113 tps,20.9s,400K,$0.05,$0.40
+Gemini 2.0 Flash,vision,76 tps,0.5s,1M,$0.14,$0.56
+Claude Haiku 4.5,vision,100 tps,0.9s,200K,$1.00,$5.00
+Gemini 2.5 Flash Lite,vision,210 tps,0.7s,1M,$0.10,$0.40
+Seed 2.0 Mini (Medium),vision,33 tps,1.7s,256K,$0.15,$0.60
+Seed 1.6 250615,vision,46 tps,2.2s,256K,$0.25,$2.00
+Qwen3 VL 30B A3B Thinking,vision,84 tps,2.9s,127K,$0.20,$1.47
+Claude Sonnet 4 (Thinking),vision,52 tps,1.5s,200K,$3.00,$13.67
+GPT-4o mini,vision,71 tps,1.7s,128K,$0.15,$0.60
+ERNIE 4.5 VL 424B A47B,vision,36 tps,3.5s,123K,$0.42,$1.25
+Mistral Large 3,vision,51 tps,1.0s,256K,$0.50,$1.50
+GPT-4.1 nano,vision,176 tps,0.5s,1M,$0.10,$0.40
+Pixtral Large,vision,57 tps,1.3s,128K,$1.50,$4.50
+Llama 4 Maverick,vision,88 tps,2.4s,1M,$0.23,$0.83
+Qwen 2.5 VL 32B Instruct,vision,43 tps,3.2s,128K,$0.35,$0.62
+GLM 4.6V,vision,21 tps,1.8s,128K,$0.38,$0.90
+Seed 1.6 Flash 250715,vision,108 tps,1.6s,256K,$0.07,$0.30
+Gemini 2.0 Flash Lite,vision,42 tps,0.5s,1M,$0.08,$0.30
+Magistral Medium 2509,vision,58 tps,0.9s,131.1K,$2.00,$5.00
+Qwen 2.5 VL 72B Instruct,vision,26 tps,3.7s,128K,$1.01,$2.79
+GLM 4.6V Flash,vision,64 tps,2.1s,128K,$0.04,$0.40
+Moonshot V1 128k Vision,vision,44 tps,3.8s,131.1K,$2.00,$5.00
+Pixtral 12B,vision,101 tps,1.2s,131.1K,$0.08,$0.08
+Magistral Small 2509,vision,116 tps,0.6s,131.1K,$0.50,$1.50
+Qwen 2.5 VL 3B Instruct,vision,44 tps,2.5s,128K,$0.21,$0.63

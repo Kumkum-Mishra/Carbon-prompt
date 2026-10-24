@@ -1,0 +1,11 @@
+
+> greenprompt-frontend@1.0.0 dev
+> WATCHPACK_POLLING=true next dev --hostname 0.0.0.0 --port 3000
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 3.2s

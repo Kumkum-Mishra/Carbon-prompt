@@ -1,0 +1,11 @@
+Prompt,Prompt Type,Task Type,Token Count,Carbon Score
+Write Python code for CNN,Zero-shot,Coding,9,0.000126
+Think step by step to solve this equation,Chain of Thought,Mathematics,8,0.00018
+Example 1: cat -> feline. Example 2: dog -> canine. Now answer:,Few-shot,Question Answering,15,0.00018
+Summarize this article in three sentences,Zero-shot,Summarization,7,0.000077
+Translate this paragraph into Hindi,Zero-shot,Translation,6,0.000066
+Act as a software engineer and write an API,Role Prompting,Coding,10,0.000161
+Generate an image of a mountain sunset,Zero-shot,Image Generation,8,0.0001152
+What is the capital of France?,Zero-shot,Question Answering,7,0.00007
+Search for the latest climate policy updates,Zero-shot,Search,7,0.000084
+Hello there,Zero-shot,General,2,0.00002

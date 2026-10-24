@@ -1,0 +1,10 @@
+Zero-shot: 1.00
+One-shot: 1.10
+Few-shot: 1.20
+Chain of Thought: 1.50
+Role Prompting: 1.15
+Persona Prompting: 1.20
+Tree of Thought: 1.70
+ReAct: 1.60
+Structured Prompt: 1.25
+Other: 1.00

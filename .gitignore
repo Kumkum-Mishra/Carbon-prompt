@@ -1,0 +1,30 @@
+# Project materials excluded from GitHub
+experiments/
+PRD/
+paper_files/
+paper-1_data/
+Evaluation_files/
+Guide
+
+# Secrets and local configuration
+**/.env
+**/.env.*
+!**/.env.example
+
+# Dependencies and generated build output
+**/node_modules/
+**/.next/
+**/__pycache__/
+**/.pytest_cache/
+**/*.pyc
+**/logs/
+**/.hf/
+**/.mplconfig/
+**/.pip-cache/
+**/.pycache/
+**/.tmp/
+**/*.log
+**/*.tsbuildinfo
+
+# Large local model artifacts
+MajorProject/models/

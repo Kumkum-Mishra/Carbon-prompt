@@ -1,0 +1,63 @@
+{
+  "carbonPromptDataset": {
+    "totalPrompts": 1000,
+    "promptTypeDistribution": {
+      "Zero Shot": 100,
+      "One Shot": 100,
+      "Few Shot": 100,
+      "Chain Of Thought": 100,
+      "Role Prompting": 100,
+      "Persona Prompting": 100,
+      "Tree Of Thought": 100,
+      "React": 100,
+      "Structured Prompt": 100,
+      "Instruction Prompting": 10,
+      "Self Consistency": 10,
+      "Least To Most": 10,
+      "Generated Knowledge": 10,
+      "Meta Prompting": 10,
+      "Plan And Solve": 10,
+      "Self Ask": 10,
+      "Analogical Prompting": 10,
+      "Contrastive Prompting": 10,
+      "Emotional Prompting": 10
+    },
+    "taskTypeDistribution": {
+      "Question Answering": 100,
+      "Text Generation": 100,
+      "Summarization": 100,
+      "Translation": 100,
+      "Reasoning / Problem Solving": 100,
+      "Code Generation": 100,
+      "Classification": 100,
+      "Information Extraction": 100,
+      "Creative Writing": 100,
+      "Dialogue / Conversational AI": 100
+    },
+    "averageTokenCount": 46.98,
+    "averageCarbonScore": 0.000108
+  },
+  "modelDataset": {
+    "totalModels": 770,
+    "categoryDistribution": {
+      "Text": 291,
+      "Coding": 286,
+      "Vision": 85,
+      "Image": 73,
+      "Search": 35
+    },
+    "categories": [
+      "Text",
+      "Image",
+      "Coding",
+      "Search",
+      "Vision"
+    ],
+    "summaryStats": {
+      "averageSpeedTps": 62.5,
+      "averageLatencySeconds": 3.2,
+      "averageContextTokens": 450000,
+      "averageInputCost": 1.85
+    }
+  }
+}
