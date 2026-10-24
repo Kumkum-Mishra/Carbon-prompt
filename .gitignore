@@ -4,8 +4,10 @@ PRD/
 paper_files/
 paper-1_data/
 Evaluation_files/
-Guide/
 Guide
+
+# Framework figures
+MajorProject/fig*_capef_framework.png
 
 # Secrets and local configuration
 **/.env
